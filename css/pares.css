@@ -1,0 +1,139 @@
+@media screen and (max-width: 600px) {
+  .mima {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .bg-gradient {
+    width: 655px;
+  }
+
+  .bg-aboutusbanner{
+    width: 655px;
+  }
+
+  .bg-banner {
+    width: 655px;
+  }
+
+  .bg-clight {
+    width: 655px;
+  }
+
+  .bg-light {
+    width: 540px;
+  }
+
+  .banwi{
+    width: 773px;
+  }
+
+  .bg-white {
+    width: 655px;
+  }
+
+  .imglo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+    top: -100px;
+  }
+
+  .bcl {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .cbox {
+    width: 100%;
+  }
+
+  .indexcontainer {
+    width: 50%;
+  }
+
+  .icr {
+    width: 50%;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .d-flex {
+    justify-content: flex-start;
+  }
+
+  .logim{
+    display: block;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .conlin{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .macap{
+    font-size: 2.3em;
+  }
+  
+  .minfo{
+    font-size: 1em;
+    margin-bottom: 50px;
+  }
+
+  .tr{
+    margin-top: -50px;
+  }
+
+  .desma{
+    width: 40%;
+    height: auto;
+  }
+
+  .divin{
+    display: none !important;
+  }
+
+  .divi{
+    display: block !important;
+  }
+
+  .desma h6{
+    font-size: 1em;
+  }
+
+  .sarem h5{
+    font-size: 0.8em;
+  }
+
+  .vide{
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .losm{
+    display: block;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
